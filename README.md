@@ -50,3 +50,7 @@ As NASA’s finest Pythonist, they have sent the gabled message to your office (
 + The top 10 English letters in the deciphered text by frequency is: E A T O I R S N H U
 
 Add the first 9 words from the deciphered message to the top of your proposal. You get additional points for describing the process and well (human!) written python source code used to decipher.
+
+First 9 words for submission:
+I PUPF A IIRIUHI TIONEIA RIIDS VUOIASH ED OFUEEECRN
+Message found at position 46266 with 25.23% confidence
